@@ -8,7 +8,7 @@ liquidswap = "0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12
 
 # Admins
 dao_admin = "0xb247ddeee87e848315caf9a33b8e4c71ac53db888cb88143d62d2370cca0ead2"
-emergency_admin = "0x63e39817ec41fad2e8d0713cc906a5f792e4cd2cf704f8b5fab6b2961281fa11"
+emergency_admin = "0xb247ddeee87e848315caf9a33b8e4c71ac53db888cb88143d62d2370cca0ead2"
 fee_admin = "0x63e39817ec41fad2e8d0713cc906a5f792e4cd2cf704f8b5fab6b2961281fa11"
 
 # Resource accounts: should be the same as @liquidswap_lp in lp_coin
