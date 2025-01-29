@@ -13,7 +13,7 @@ fee_admin = "0xb247ddeee87e848315caf9a33b8e4c71ac53db888cb88143d62d2370cca0ead2"
 
 # Resource accounts: should be the same as @liquidswap_lp in lp_coin
 liquidswap_pool_account = "0x05a97986a9d031c4567e15b797be516910cfcb4156312482efc6a19c0a30c948"
-liquidswap_emergency_account = "0xa6d6e549b917e454464ff6c63f91386d98769ea512bc778bdaca00969f896764"
+liquidswap_emergency_account = "0x40f545e01332a00225e74a369eda3aed76a32dc6dccf6c08fba4499476d329"
 
 # Addresses for tests.
 test_coin_admin = "0x11"
